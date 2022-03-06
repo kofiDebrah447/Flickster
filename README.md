@@ -21,8 +21,7 @@
 
 ### App Walkthough GIF
 
-<img src="![Walkthrough6](https://user-images.githubusercontent.com/89748741/156917799-f1796ff0-fea5-4551-87e1-6fd8538255b4.gif)
-" width=250><br>
+<img src="Walkthrough6.gif" width=250><br>
 
 ### Notes
 
